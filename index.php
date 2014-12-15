@@ -249,8 +249,8 @@ $(document).ready(function(){
 					<div class="ribbon"style="background-color:#1b1b19;">
 						<div id="nav" style="padding:5px; float:left; margin-left:20px;">		
 							<nav>
-								<a style="cursor:pointer;" href="index2.php" onclick="" id="my_port">Portfolio</a>
-								<a style="cursor:pointer;" onclick="page_displayer('profile')" id="my_profile">Profile</a>
+								<a style="cursor:pointer;" href="index2.php" onclick="" id="my_port">My Portfolio</a>
+								<a style="cursor:pointer;" onclick="page_displayer('profile')" id="my_profile">My Profile</a>
 								<a style="cursor:pointer" onclick="page_displayer('photo_gly')" id="contact">Photo Gallery</a>
 								<a href="#" id="contact">I <img src="./img/love.png" style="height:14px; width:14px; margin-top:-2px;"> Doing</a>
 								
