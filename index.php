@@ -9,7 +9,7 @@
 <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Jimil Sumra - Web Developer</title>
+        <title>Jimil S - Web Developer</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
 
@@ -194,7 +194,7 @@ $(document).ready(function(){
 			<center>
 			<div id="hd_holder" style="">
 					<div id="logo" style="margin-top:25px;">
-						<span style="font-size: 50px;">Jimil Sumra</span></br>
+						<span style="font-size: 50px;">Jimil S</span></br>
 						<img src="./img/line.png" style="margin-top:-30px; margin-left:35px;padding:0px;"/>
 						<div style="margin-left:105px; margin-top:-20px; font-size:16px;">Web Developer</div>
 					</div>
@@ -249,8 +249,8 @@ $(document).ready(function(){
 					<div class="ribbon"style="background-color:#1b1b19;">
 						<div id="nav" style="padding:5px; float:left; margin-left:20px;">		
 							<nav>
-								<a style="cursor:pointer;" href="index2.php" onclick="" id="my_port">My Portfolio</a>
-								<a style="cursor:pointer;" onclick="page_displayer('profile')" id="my_profile">My Profile</a>
+								<a style="cursor:pointer;" href="index2.php" onclick="" id="my_port">Portfolio</a>
+								<a style="cursor:pointer;" onclick="page_displayer('profile')" id="my_profile">Profile</a>
 								<a style="cursor:pointer" onclick="page_displayer('photo_gly')" id="contact">Photo Gallery</a>
 								<a href="#" id="contact">I <img src="./img/love.png" style="height:14px; width:14px; margin-top:-2px;"> Doing</a>
 								
