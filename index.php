@@ -9,7 +9,7 @@
 <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Jimil Sumra - Web Developer</title>
+        <title>Jimil S - Web Developer</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
 
@@ -194,7 +194,7 @@ $(document).ready(function(){
 			<center>
 			<div id="hd_holder" style="">
 					<div id="logo" style="margin-top:25px;">
-						<span style="font-size: 50px;">Jimil Sumra</span></br>
+						<span style="font-size: 50px;">Jimil S</span></br>
 						<img src="./img/line.png" style="margin-top:-30px; margin-left:35px;padding:0px;"/>
 						<div style="margin-left:105px; margin-top:-20px; font-size:16px;">Web Developer</div>
 					</div>
