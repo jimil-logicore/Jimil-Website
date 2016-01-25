@@ -16,6 +16,7 @@
 								<div id="more_info_holder" style="float:right;"><span id="more_info">More Info</span><img id="more_info_img" onclick="page_displayer('project_detail')" src="./img/more_info.png"></div>
 							</div>
 						</center>
+							hello how are you?
 						</div>
 						<div class="s1"> 
 							
